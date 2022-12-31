@@ -9,6 +9,7 @@ Movement management on a map
 Animated effects (spells)
 PNJ
 Inventory management and loot
+Settings
 
 ## Build with linux (ubuntu)
 
@@ -24,7 +25,7 @@ Realised with SFML 2.5
 
 ### 3. Build and install CSFML:
 
-    mkdir build (at the root of the extracted folder)
+    mkdir build
 	cd build
 	cmake ..
 	make
@@ -41,3 +42,4 @@ Realised with SFML 2.5
 ![Alt text](screenshots/2.png?raw=true "2")
 ![Alt text](screenshots/3.png?raw=true "3")
 ![Alt text](screenshots/4.png?raw=true "4")
+![Alt text](screenshots/5.png?raw=true "5")
