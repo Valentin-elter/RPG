@@ -1,19 +1,19 @@
 # RPG
-First year project student, classical RPG make with C-SFML library.
+First year project student, a classical RPG made with the C-SFML library.
 
 ## Features
 
-In-game save system
-Turn-based combat with enemy A.I.
-Movement management on a map
-Animated effects (spells)
-PNJ
-Inventory management and loot
-Settings
+* In-game save system  
+* Turn-based combat with enemy AI  
+* Movement management on a map  
+* Animated effects (spells)  
+* NPC interactions  
+* Inventory management and loot system  
+* Settings menu  
 
-## Build with linux (ubuntu)
+## Build on Linux (Ubuntu)
 
-Realised with SFML 2.5
+Built with SFML 2.5
 
 ### 1. Install the dependencies:
 
